@@ -6,7 +6,7 @@ const styles = StyleSheet.create({
         alignItems: 'center', 
         width: '100%', 
         height: '100%', 
-        backgroundColor: '#000000', 
+        backgroundColor: '#004bc4', 
         borderRadius: 20, 
      
     },  
@@ -14,7 +14,7 @@ const styles = StyleSheet.create({
         fontSize: 30, 
         fontWeight: 'bold', 
         color:'white',
-        fontFamily:'Arial Rounded MT Bold',
+    
     }, 
     imagem: {
         width: '60%', 

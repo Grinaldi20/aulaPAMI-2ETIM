@@ -18,7 +18,7 @@ export default function App() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#a80202',
+    backgroundColor: 'white',
     padding:16,
     paddingTop: Constants.statusBarHeight || 16,
    // alignItems: 'center',
